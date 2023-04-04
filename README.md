@@ -3,6 +3,8 @@ This repository was the capstone project for the Data Science &amp; Machine Lear
 
 ![NLP](https://user-images.githubusercontent.com/109702220/229652404-b2644781-b110-4082-8195-fd5884332626.jpeg)
 
+The project was compounded in several steps. The main of them are available in this repository as three different Jupyter Notebooks: (1) tweet_collector, (2) data_preprocessing, and (3) ML_Classifier. The logic sequence in which they were applied and their function are graphically represented in the following image:
+
 ![Fluxogram](https://user-images.githubusercontent.com/109702220/229648644-e14b5137-5e3f-4c6b-8b95-929e98d03b34.png)
 
 LET'S SHARE AND OPEN-SOURCE IT!
